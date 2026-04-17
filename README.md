@@ -124,7 +124,7 @@ MIT License
 
 # 👨‍💻 Author
 **Somen Pradhan**
-AI/ML Developer
+AI/ML Developer 
 
 # ⭐ Support
 If you Like this
